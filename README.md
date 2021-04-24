@@ -1,1 +1,1 @@
-# dmlab_feladat
+# Dmlab feladat
